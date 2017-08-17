@@ -1,38 +1,38 @@
 Problem:
 ## A. Hexagonal numbers
-> time limit per test:2 seconds
+time limit per test:2 seconds
 
-> memory limit per test:64 megabytes
+memory limit per test:64 megabytes
 
-> input:standard input
+input:standard input
 
-> output:standard output
+output:standard output
 
-> Hexagonal numbers are figurate numbers which can be calculated using the formula hn = 2n2 - n. You are given n; calculate n-th hexagonal number.
+Hexagonal numbers are figurate numbers which can be calculated using the formula hn = 2n2 - n. You are given n; calculate n-th hexagonal number.
 
-> Input
+Input
 
 > The only line of input contains an integer n (1 ≤ n ≤ 100).
 
-> Output
+Output
 
 > Output the n-th hexagonal number.
 
-> Examples
+Examples
 
-> input
+input
 
 > 2
 
-> output
+output
 
 > 6
 
-> input
+input
 
 > 5
 
-> output
+output
 
 > 45
 
