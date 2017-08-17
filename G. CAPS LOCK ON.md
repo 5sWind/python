@@ -1,12 +1,12 @@
 Problem:
 ## G. CAPS LOCK ON
-time limit per test2 seconds
+time limit per test:2 seconds
 
-memory limit per test64 megabytes
+memory limit per test:64 megabytes
 
-inputstandard input
+input:standard input
 
-outputstandard output
+output:standard output
 
 You are given a string which consists of letters and other characters. Convert it to uppercase, i.e., replace all lowercase letters with corresponding uppercase ones. Keep the rest of characters unchanged.
 
