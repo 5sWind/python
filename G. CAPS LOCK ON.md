@@ -39,39 +39,11 @@ output
 
 Keys:
 ```
-def isprime(num):
-    count = num // 2
-    while count > 1:
-        if num % count == 0:
-            return False
-            break
-        else:
-            count -= 1
-    else:
-        return True
-
-def getfactors(num):
-    l = []
-    if isprime(num):
-        return [num]
-    count = num // 2
-    for i in range(2, count + 1):
-        if num % i == 0 and isprime(i):
-             l.append(i)
-    return l
-
-def primecal(num):
-    fac = getfactors(num)
-    mul = 1
-    for i in fac:
-        mul *= i
-    if mul == num:
-        return fac
-    else:
-        return fac + primecal(num // mul)
+def main():
+    i = input()
+    j = i.upper()
+    print(j)
 
 if __name__ == '__main__':
-    num = eval(input())
-    res = map(str,sorted(primecal(num)))
-    print(' '.join(res))
+    main()
 ```
