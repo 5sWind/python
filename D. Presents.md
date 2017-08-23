@@ -17,8 +17,7 @@ Input
 Output
 
 > Print three numbers i1, i2, i3 (1 ≤ i1, i2, i3 ≤ 3), all of them should be distinct. The first number stands for the seniority of the sister which will get the first present (1 stands for the eldest, 3 for the youngest). The second and third numbers mean the seniority of the sisters which get the second and the third present respectively.
-
-> If there are multiple answers, print any of them.
+If there are multiple answers, print any of them.
 
 Examples
 
