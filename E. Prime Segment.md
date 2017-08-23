@@ -41,21 +41,21 @@ output
 Keys:
 ```
     def main():
-    n = eval(input())
-    pl = 1
-    first, second = n, n
-    if n%2 != 0 and n%3 != 0 and n%5 != 0:
-        print(n,n)
-    while first%2 == 0 or first%3 == 0 or first%5 == 0:
-        first+=pl
-        if first%2 != 0 and first%3 != 0 and first%5 != 0:
-            break
-    while second%2 == 0 or second%3 == 0 or second%5 == 0:
-        second-=pl
-        if second%2 != 0 and second%3 != 0 and second%5 != 0:
-            break
-    if n%2 == 0 or n%3 == 0 or n%5 == 0:
-        print(second,first)
+        n = eval(input())
+        pl = 1
+        first, second = n, n
+        if n%2 != 0 and n%3 != 0 and n%5 != 0:
+            print(n,n)
+        while first%2 == 0 or first%3 == 0 or first%5 == 0:
+            first+=pl
+            if first%2 != 0 and first%3 != 0 and first%5 != 0:
+                break
+        while second%2 == 0 or second%3 == 0 or second%5 == 0:
+            second-=pl
+            if second%2 != 0 and second%3 != 0 and second%5 != 0:
+                break
+        if n%2 == 0 or n%3 == 0 or n%5 == 0:
+            print(second,first)
 
     if __name__ == '__main__':
         main()
