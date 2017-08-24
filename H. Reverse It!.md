@@ -1,5 +1,5 @@
 Problem:
-## F. Domain
+## H. Reverse It!
 time limit per test:2 seconds
 
 memory limit per test:64 megabytes
