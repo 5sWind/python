@@ -21,8 +21,7 @@ Input
 Output
 
 > Write a single yes or no. Write yes if the number is extraordinarily nice and no otherwise.
-
-> You don't need to care about capital or small letters. The output is case-insensitive.
+You don't need to care about capital or small letters. The output is case-insensitive.
 
 Examples
 
