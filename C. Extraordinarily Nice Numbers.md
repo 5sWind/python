@@ -1,5 +1,6 @@
 Problem:
-C. Extraordinarily Nice Numbers
+
+## C. Extraordinarily Nice Numbers
 
 time limit per test:2 seconds
 memory limit per test:256 megabytes
