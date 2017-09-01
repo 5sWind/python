@@ -1,4 +1,6 @@
+Problem:
 C. Extraordinarily Nice Numbers
+
 time limit per test:2 seconds
 memory limit per test:256 megabytes
 input:standard input
@@ -39,6 +41,7 @@ output
 
 > no
 
+Keys:
 ```python
     def main():
         n = eval(input())
