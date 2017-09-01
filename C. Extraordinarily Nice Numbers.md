@@ -3,9 +3,13 @@ Problem:
 ## C. Extraordinarily Nice Numbers
 
 time limit per test:2 seconds
+
 memory limit per test:256 megabytes
+
 input:standard input
+
 output:standard output
+
 The positive integer a is a divisor of the positive integer b if and only if there exists a positive integer c such that a × c = b.
 
 King Astyages thinks a positive integer x is extraordinarily nice if the number of its even divisors is equal to the number of its odd divisors.
