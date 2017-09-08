@@ -52,11 +52,11 @@ output
 
 Note
 
-> In the first sample, there are 3 problems and Limak needs 222 minutes to get to the party. The three problems require 5, 10 and 15 minutes respectively. Limak can spend 5 + 10 = 15 minutes to solve first two problems. Then, at 20:15 he can leave his house to get to the party at 23:57 (after 222 minutes). In this scenario Limak would solve 2 problems. He doesn't have enough time to solve 3 problems so the answer is 2.
+In the first sample, there are 3 problems and Limak needs 222 minutes to get to the party. The three problems require 5, 10 and 15 minutes respectively. Limak can spend 5 + 10 = 15 minutes to solve first two problems. Then, at 20:15 he can leave his house to get to the party at 23:57 (after 222 minutes). In this scenario Limak would solve 2 problems. He doesn't have enough time to solve 3 problems so the answer is 2.
 
-> In the second sample, Limak can solve all 4 problems in 5 + 10 + 15 + 20 = 50 minutes. At 20:50 he will leave the house and go to the party. He will get there exactly at midnight.
+In the second sample, Limak can solve all 4 problems in 5 + 10 + 15 + 20 = 50 minutes. At 20:50 he will leave the house and go to the party. He will get there exactly at midnight.
 
-> In the third sample, Limak needs only 1 minute to get to the party. He has enough time to solve all 7 problems.
+In the third sample, Limak needs only 1 minute to get to the party. He has enough time to solve all 7 problems.
 
 Keys:
 ```python
